@@ -15,7 +15,7 @@ Here's how the application looks in action:
 *The main interface showing the song input field and recommendation results*
 
 ### Song Recommendations with Album Covers
-<img width="1321" height="755" alt="image" src="https://github.com/user-attachments/assets/cebfdbad-bd7b-4639-bfa9-823609978ce2" />
+![Main Interface](Screenshot%202025-06-02%20at%2012.04.59%20PM.png)
 
 *Example of song recommendations displaying album covers and YouTube links*
 
